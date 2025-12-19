@@ -1,4 +1,4 @@
-\# Guess the Word
+# Guess the Word
 
 
 
@@ -6,43 +6,43 @@ A web-based game where users guess a hidden word. The word is fetched and valida
 
 
 
-\## Features
+## Features
 
-\- Fetch random words from an API
+- Fetch random words from an API
 
-\- User input validation
+- User input validation
 
-\- Interactive UI with dynamic updates
+- Interactive UI with dynamic updates
 
-\- Responsive design
-
-
-
-\## Technologies Used
-
-\- HTML5
-
-\- CSS3
-
-\- JavaScript
-
-\- API integration for word validation
+- Responsive design
 
 
 
-\## How to Run
+## Technologies Used
 
-1\. Clone the repository: `git clone https://github.com/Aakash4096/web-based-word-masters.git`
+- HTML5
 
-2\. Open `index.html` in a browser
+- CSS3
 
-3\. Start guessing the word!
+- JavaScript
+
+- API integration for word validation
 
 
 
-\## Live Demo
+## How to Run
 
-\[Click here](https://Aakash4096.github.io/word-masters)
+1. Clone the repository: `git clone https://github.com/Aakash4096/web-based-word-masters.git`
+
+2. Open `index.html` in a browser
+
+3. Start guessing the word!
+
+
+
+## Live Demo
+
+[Click here](https://Aakash4096.github.io/word-masters)
 
 
 
