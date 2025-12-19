@@ -40,9 +40,7 @@ A web-based game where users guess a hidden word. The word is fetched and valida
 
 
 
-## Live Demo
 
-[Click here](https://Aakash4096.github.io/word-masters)
 
 
 
